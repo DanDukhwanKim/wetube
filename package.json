@@ -2,13 +2,12 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "Cloning Youtube with VanillaJS and NodeJS",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "DanDukhwanKim",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "scripts":{
+    "start": "node index.js"
   }
 }
