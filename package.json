@@ -7,7 +7,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "scripts":{
+  "scripts": {
     "start": "node index.js"
   }
 }
